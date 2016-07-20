@@ -14,7 +14,7 @@ setup(name=name,
     classifiers=[
         "Programming Language :: Python",
     ],
-    packages=['.'],
+    packages=[],
     zip_safe=False,
     entry_points="""
         [console_scripts]
